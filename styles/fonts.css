@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/Poppins-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/RobotoSlab-Light.ttf') format('truetype');
+}
+
+.branding {
+    font-family: 'Poppins';
+    font-size: 24px;
+}
+
+.standard {
+    font-family: 'Roboto Slab';
+}

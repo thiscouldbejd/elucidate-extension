@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Elucidate - Present via Webcam",
+    "description": "Extension name."
+  },
+  "extensionShortName": {
+    "message": "Elucidate",
+    "description": "Extension short-name."
+  },
+  "extensionDescription": {
+    "message": "Chrome Extension for overlaying your webcam on any webpage - ideal for screensharing, presentations and video calls!",
+    "description": "Extension description."
+  }
+}

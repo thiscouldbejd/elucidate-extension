@@ -1,0 +1,16 @@
+hr.divider:not([size]) {
+    height: 1px;
+}
+
+hr.divider {
+    margin: 0.8rem 0;
+    color: inherit;
+    background-color: #666666;
+    border: 0;
+    opacity: .25;
+}
+
+p.lead {
+    font-size: 1.15rem;
+    font-weight: 300;
+}
